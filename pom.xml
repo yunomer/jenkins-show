@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.techprimers.testing</groupId>
-    <artifactId>jenkins-example</artifactId>
+    <artifactId>jenkins-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>1.8</java.version>
+        <java.version>12.0.1</java.version>
         <junit.jupiter.version>5.0.0-M3</junit.jupiter.version>
         <junit.platform.version>1.0.0-M3</junit.platform.version>
     </properties>
@@ -58,14 +58,14 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/repo/FN8PIshHk5uALNhkXbhs/</url>
+            <url>https://mymavenrepo.com/repo/HwYEkEk1X8CHNnbcvqIx/</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
+            <url>https://mymavenrepo.com/repo/dr2CkLxx5MOVUZE3Lsp7/</url>
         </repository>
     </distributionManagement>
 
